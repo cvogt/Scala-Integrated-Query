@@ -15,28 +15,28 @@ particular when correlating data in main-memory with data in the
 database. This prototype was developed in a Master's project and builds
 up on research of University of Tübingen, namely Ferry and Pathfinder.
 
-[SIQ Thesis](http://scala-integrated-query.googlecode.com/files/SIQ-Thesis-final.pdf) (PDF)
+[SIQ Thesis](SIQ-Thesis-final.pdf) (PDF)
 
 ###Talks about SIQ
 #### Stanford University, Scala Days 2011, June 2011
 
 overview, motivation, use case
 
-[Slides (+extras)](http://scala-integrated-query.googlecode.com/files/SIQ-Scala-Days-final.pdf) | [Video](http://days2011.scala-lang.org/node/138/279) | [Announcement](http://days2011.scala-lang.org/node/244)
+[Slides (+extras)](SIQ-Scala-Days-final.pdf) | [Video](http://days2011.scala-lang.org/node/138/279) | [Announcement](http://days2011.scala-lang.org/node/244)
 
 
 ##### EPFL Lausanne, Switzerland, August 2011
 
 focus on translation Scala to SQL involving Ferry translation
 
-[Slides](http://scala-integrated-query.googlecode.com/files/SIQ-EPFL-defense.pdf)
+[Slides](SIQ-EPFL-defense.pdf)
 
 
 #### RWTH Aachen University, Germany, August 2011
 
 focus on code lifting and type safety
 
-[Slides](http://scala-integrated-query.googlecode.com/files/SIQ-RWTH-defense.pdf)
+[Slides](SIQ-RWTH-defense.pdf)
 
 
 ## Running the tests
